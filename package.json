@@ -1,12 +1,12 @@
 {
-  "name": "ASITHA-MD",
+  "name": "M.R.Gesa",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start start.js --deep-monitoring --attach --name ASITHA-MD",
-    "stop": "pm2 stop ASITHA-MD",
-    "restart": "pm2 restart ASITHA-MD"
+    "stop": "pm2 stop M.R.Gesa",
+    "restart": "pm2 restart M.R.Gesa"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "github:Hupa11/Asithamdb",
